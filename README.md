@@ -7,8 +7,8 @@
 
 👋 Hello... My full name is Teddy Zugana I'm Software Engineer who specialized in *backend* side, but also have an ability to code in *frontend* side. Very passionate about modern *mobile, embed Device and web technology* while taking into consideration the latest trends and techniques.
 
-<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-## 💼 Career
+## 💼 Career  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
