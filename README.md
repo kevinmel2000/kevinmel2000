@@ -5,18 +5,24 @@
 </div>
 <br>
 
-👋 Hello... My full name is Teddy Zugana I'm Software Engineer who specialized in *frontend* side, but also have an ability to code in *backend* side. Very passionate about modern *mobile, embed Device and web technology* while taking into consideration the latest trends and techniques.
+👋 Hello... My full name is Teddy Zugana I'm Software Engineer who specialized in *backend* side, but also have an ability to code in *frontend* side. Very passionate about modern *mobile, embed Device and web technology* while taking into consideration the latest trends and techniques.
 
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 ## 💼 Career
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+img align='right' src='https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966' >
 
 ### 🔭 I’m currently working on ...
-  
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
    -Currently working in *Software Engineering Division* as a ***Core Java Developer*** at Ezeelink. Helping to build application services.
    -Previously working in *Software Engineering Division* as a ***Mobile Android Developer*** at PT.GSP. Helping to build application services.
    -Previously working in *Software Engineering Division* as a ***Web Developer*** at MNC Media Holding. Helping to build application services.
+
+
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
