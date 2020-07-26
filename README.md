@@ -17,9 +17,9 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-   -Currently working in *Software Engineering Division* as a ***Core Java Developer*** at Ezeelink. Helping to build application services.
-   -Previously working in *Software Engineering Division* as a ***Mobile Android Developer*** at PT.GSP. Helping to build application services.
-   -Previously working in *Software Engineering Division* as a ***Web Developer*** at MNC Media Holding. Helping to build application services.
+-Currently working in *Software Engineering Division* as a ***Core Java Developer*** at Ezeelink. Helping to build application services.
+<br>-Previously working in *Software Engineering Division* as a ***Mobile Android Developer*** at PT.GSP. Helping to build application services.
+<br>-Previously working in *Software Engineering Division* as a ***Web Developer*** at MNC Media Holding. Helping to build application services.
 
 
 
