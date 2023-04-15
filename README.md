@@ -75,18 +75,18 @@
 - Ubuntu,Redhat, Centos, FreeBSD
 
   
-###🌱 I’m currently learning ... 🔍 Currently Learning:
+### 🌱 I’m currently learning ... 🔍 Currently Learning:
 - Programming
 - Mobile Programming
 - Device MicroController Programming
 - Writing
 - Self Improvement
 
-###👯 I’m looking to collaborate on ...
-###🤔 I’m looking for help with ...
-###💬 Ask me about ...
+### 👯 I’m looking to collaborate on ...
+### 🤔 I’m looking for help with ...
+### 💬 Ask me about ...
 
-###📫 How to reach me:
+### 📫 How to reach me:
 ### 🚀 How to reach me:
 - Instagram: [@teddyzugana](https://www.instagram.com/teddyzugana/)
 - Facebook: (https://www.facebook.com/lonewolfzero2)
@@ -97,9 +97,9 @@
 
 
 
-###😄 Pronouns: ...
+### 😄 Pronouns: ...
 
-###⚡ Fun fact: ...
+### ⚡ Fun fact: ...
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
